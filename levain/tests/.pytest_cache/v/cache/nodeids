@@ -1,0 +1,5 @@
+[
+  "test_service.py::test_create_record_ok", 
+  "test_service.py::test_create_invalid_domain", 
+  "test_service.py::test_create_dns_ko"
+]
